@@ -16,6 +16,7 @@ iframe {
 
 table {
     border-collapse: collapse;
+    text-align: center;
 }
 
 th,
