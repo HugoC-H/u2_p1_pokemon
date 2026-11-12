@@ -10,21 +10,21 @@
             <title>Título del primer contenido</title>
             <link>https://HugoC-H.github.io/u2_p1_pokemon/blog.html</link>
             <guid>https://HugoC-H.github.io/u2_p1_pokemon/blog.html</guid>
-            <pubDate>Jueves, 12 Nov 2026 05:00:00 +0100</pubDate>
+            <pubDate>Wed, 11 Nov 2026 23:00:00 +0100</pubDate>
             <description>Blog acerca de los tipos de pokémon.</description>
         </item>
         <item>
             <title>Título del segundo contenido</title>
             <link>https://HugoC-H.github.io/u2_p1_pokemon/tabla.html</link>
             <guid>https://HugoC-H.github.io/u2_p1_pokemon/tabla.html</guid>
-            <pubDate>Jueves, 12 Nov 2026 05:00:00 +0100</pubDate>
+            <pubDate>Wed, 11 Nov 2026 23:00:00 +0100</pubDate>
             <description>Tabla de tipos.</description>
         </item>
         <item>
             <title>Título del tercer contenido</title>
             <link>https://HugoC-H.github.io/u2_p1_pokemon/galeria.html</link>
             <guid>https://HugoC-H.github.io/u2_p1_pokemon/galeria.html</guid>
-            <pubDate>Jueves, 12 Nov 2026 05:00:00 +0100</pubDate>
+            <pubDate>Wed, 11 Nov 2026 23:00:00 +0100</pubDate>
             <description>Colección de media sobre pokémon.</description>
         </item>
     </channel>

@@ -42,7 +42,7 @@
 
                 <br><br>
 
-                <label for="fav_game">Juego Favorito</label>
+                <label for="game_fav">Juego Favorito</label>
                 <input type="text" id="game_fav" name="game_fav" placeholder="Pokémon GO">
                 
                 <br><br>
@@ -94,12 +94,12 @@
                 <br><br>
 
                 <label for="password">Contraseña*</label>
-                <input type="password" id="password" name="password" minlenght="8" maxlength="20" pattern="(?=.*[A-Za-z])(?=.*[0-9]).{8,20}" required>
+                <input type="password" id="password" name="password" minlength="8" maxlength="20" pattern="(?=.*[A-Za-z])(?=.*[0-9]).{8,20}" required>
                 
                 <br><br>
 
                 <label for="fecha">Fecha de nacimiento</label>
-                <input type="date" id="mail" name="mail" placeholder="ejemplo@gmail.com">
+                <input type="date" id="fecha" name="fecha">
 
                 <br><br>
 
@@ -113,6 +113,7 @@
             </fieldset>
 
             <section>
+                <h3>Botones</h3>
                 <input type="submit" id="mandar" name="mandar" value="Terminar">
                 <input type="reset" id="reinicio" name="reinicio" value="Reiniciar">
                 <input type="button" id="info" name="info" value="Información" onclick="alert('Rellena los campos obligatorios antes de poder mandarlo.')">
